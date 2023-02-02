@@ -7,8 +7,7 @@ for i in range(connect):
     a,b =map(int, sys.stdin.readline().split())
     graph[a].append(b)
     graph[b].append(a) #같은 컴퓨터에 연결된 컴퓨터들을 묶기
-print(graph)
-
+    
 cnt=0
 visited=[0]*(computer+1) #1번부터 세기 위해
 def dfs(start):
@@ -29,3 +28,6 @@ print(cnt)
 # 5 2
 # 5 6
 # 4 7
+
+# graph
+# [[], [2, 5], [1, 3, 5], [2], [7], [1, 2, 6], [5], [4]]

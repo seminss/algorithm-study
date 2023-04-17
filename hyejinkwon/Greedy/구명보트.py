@@ -6,7 +6,7 @@ def solution(people, limit):
     answer = 0
     q = deque(people)
     q = deque(sorted(q))
-    # 가장 작은 + 가장 큰
+    # 가장 작은 무게 + 가장 큰 무게
     
     while len(q) > 1 :
         if q[0] + q[-1] <= limit :

@@ -19,7 +19,6 @@ T = int(input()) # test case
 answer = []
 for i in range(T) :
     N, M = map(int, input().split())
-    print(M,"! //",N,"! *",M-N,"!")
     answer.append(factorial(M) // (factorial(N)*factorial(M-N) ))
 
 for a in answer:

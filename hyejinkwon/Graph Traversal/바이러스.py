@@ -43,5 +43,5 @@ def BFS(graph,start,visited) :
 
     return count
 
-print(BFS(graph,1,visited))
+print(BFS(graph,1,visited)-1)
 

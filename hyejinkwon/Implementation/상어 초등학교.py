@@ -45,25 +45,22 @@ for _ in range(N**2) :
 
 like_student_list.sort()
 
-sum = 0 
-for i in range(1,N+1) :
-    for j in range(1,N+1) :
-        count = 0 
-        
-        for k in range(4) :
+sum = 0
+for i in range(1, N+1):
+    for j in range(1, N+1):
+
+        count = 0
+        for k in range(4):
             xx = i + dx[k]
             yy = j + dy[k]
-
-            if 1<=xx<=N and 1<=yy<=N :
-                if class_seat[xx][yy] in like_student_list[class_seat[xx][yy]-1] : 
+            # 교실 내에 있는지
+            if 1<=xx<=N and 1<=yy<=N:
+                if (class_seat[xx][yy] in like_student_list[class_seat[i][j]-1]):
                     count += 1
 
         if count != 0 :
             sum += 10**(count-1)
 
-print(sum)
-
-            
-                    
+print(sum)                 
 
 

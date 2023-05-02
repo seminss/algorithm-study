@@ -9,5 +9,6 @@
 
 ### 기타
 * [\[1차\] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) - 🚨hit이더라도 큐에서 뺏다가 다시 넣어줘야 우선순위가 업데이트된다
+* [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
 
 ### 나중에 다시 풀어볼 문제

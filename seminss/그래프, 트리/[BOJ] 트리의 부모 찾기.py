@@ -1,4 +1,5 @@
 import sys
+sys.setrecursionlimit(10**9)
 
 def dfs(graph,v,answer):
     for i in graph[v]:
@@ -17,3 +18,5 @@ for i in range(n-1):
 
 dfs(graph,1,answer)
 for i in range(2,len(answer)): print(answer[i])
+
+#메모리 초과가 났었는데, 재귀 깊이를 늘려 해결했다.

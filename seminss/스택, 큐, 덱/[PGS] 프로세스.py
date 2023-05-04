@@ -1,17 +1,16 @@
 # queue: FIFO
-# 12:40~1:00
+#12:37~
 from collections import deque
 def solution(priorities, location):
     answer = []
-    dq=deque([chr(ord('A')+i) for i in range(len(priorities))])
-    pr=deque(priorities)
+    dq = deque([(v,chr(ord('A')+i)) for i,v in enumerate(priorities)])
     target=dq[location]
-    while pr:
-        mx=max(pr)
-        tmp=pr.popleft()
-        if tmp==mx:
-            answer.append(dq.popleft())
+    print(max(dq,key=lambda x:x[0]))
+    while dq:
+        mx=max(dq,key=lambda x:x[0])
+        tmp=dq.popleft()
+        if tmp!=mx:
+            dq.append(tmp)
         else:
-            pr.append(tmp)
-            dq.append(dq.popleft())
+            answer.append(tmp)
     return answer.index(target)+1

@@ -15,4 +15,6 @@ def solution(elements):
             else:
                 _sum = sum(elements[i:i+j])
             results.add(_sum)
+            
     return len(results)
+

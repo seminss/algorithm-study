@@ -15,6 +15,9 @@
 ### 문자열
 * [\[1차\] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)
 
+### 해시
+* [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
+
 ### 기타
 * [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
 * [\[1차\] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) - 🚨hit이더라도 큐에서 뺏다가 다시 넣어줘야 우선순위가 업데이트된다

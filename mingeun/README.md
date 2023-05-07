@@ -2,6 +2,7 @@
 
 ### DFS/BFS
 * [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+* [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946#) - 🚨순열 구현 + 백트래킹
 
 ### 스택/큐
 * [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) - 🚨모든 괄호가 짝지어진 경우 `len(stack) = 0`
@@ -25,3 +26,4 @@
 * [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127#)
 * [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 * [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+* [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946#)

@@ -9,6 +9,9 @@
 * [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 * [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
 
+### Heap
+* [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
+
 ### 정렬
 * [H-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747#) - 🚨빈 리스트에 대해 `max`함수를 실행하면 런타임 에러 발생
 

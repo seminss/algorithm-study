@@ -1,5 +1,5 @@
 import sys
-
+sys.setrecursionlimit(1000000) # 재귀 깊이 제한 늘리기
 input = sys.stdin.readline
 
 n,m = map(int,input().split())
@@ -7,10 +7,8 @@ parent = [i for i in range(n+1)]
 
 # 루트 노드 찾기
 def find(a) :
-    if a == parent[a] :
-        return a
-    p = find(parent[a]) # 루트노드 찾기
-    parent[a] = p # 부모 테이블 갱신
+    if a != parent[a] :
+        parent[a] = find(parent[a]) # 루트노드 찾기 + 부모 테이블 갱신
     return parent[a]
 
 def union(a,b) : 
@@ -29,7 +27,7 @@ for _ in range(m) :
 
     if c == 0 :
         union(a,b)
-    print(parent)
+
     if c == 1 :
         if find(a) == find(b) :
             print("YES")

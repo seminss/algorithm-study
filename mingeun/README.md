@@ -10,6 +10,7 @@
 * [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) - 🚨모든 괄호가 짝지어진 경우 `len(stack) = 0`
 * [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 * [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
+* [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 
 ### Heap
 * [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)

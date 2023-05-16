@@ -40,6 +40,7 @@
 * [주차요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
 * [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
 * [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
+* [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)
 
 ### 나중에 다시 풀어볼 문제
 * [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127#)
@@ -47,3 +48,4 @@
 * [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
 * [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946#)
 * [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) - 🚨 순열과 조합을 빠르게 구현
+* [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) - 🚨 두 개의 index를 사용하여 시간복잡도를 감소시킨다

@@ -31,7 +31,7 @@
 ### 정수
 * [\[3차\] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)
 
-### 기타
+### 기타(≈구현)
 * [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
 * [\[1차\] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) - 🚨hit이더라도 큐에서 뺏다가 다시 넣어줘야 우선순위가 업데이트된다
 * [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
@@ -39,9 +39,11 @@
 * [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)
 * [주차요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
 * [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
+* [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
 
 ### 나중에 다시 풀어볼 문제
 * [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127#)
 * [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 * [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
 * [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946#)
+* [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) - 🚨 순열과 조합을 빠르게 구현

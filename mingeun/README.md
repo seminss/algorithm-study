@@ -34,6 +34,7 @@
 * [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127#)
 * [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)
 * [주차요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
+* [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
 
 ### 나중에 다시 풀어볼 문제
 * [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127#)

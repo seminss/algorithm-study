@@ -13,3 +13,5 @@ def solution(prices):
         answer.append(test)
     
     return answer
+
+# 효율성 테스트 최대 158ms

@@ -46,6 +46,7 @@
 * [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
 * [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)
 * [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994#) - 🚨A->B를 방문했다면 B->A는 방문할 수 없다
+* [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)
 
 ### 나중에 다시 풀어볼 문제
 * [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127#)

@@ -5,6 +5,7 @@
 * [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946#) - 🚨순열 구현 + 백트래킹
 * [숨바꼭질](https://www.acmicpc.net/problem/1697)
 * [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)
+* [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) - 🚨상하좌우 모두 이동해봐야 함
 
 ### 스택/큐
 * [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) - 🚨모든 괄호가 짝지어진 경우 `len(stack) = 0`

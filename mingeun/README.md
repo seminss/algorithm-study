@@ -25,6 +25,7 @@
 
 ### 정렬
 * [H-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747#) - 🚨빈 리스트에 대해 `max`함수를 실행하면 런타임 에러 발생
+* [3차] 파일명 정렬 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/17686#) [정답](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/17686%23.py) - 🚨index가 지정된 범위를 벗어나는지 검사
 
 ### 문자열
 * [\[1차\] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)

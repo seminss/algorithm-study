@@ -13,6 +13,7 @@
 * [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 * [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
 * [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+* [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539?language=python3)
 
 ### 최단거리
 * [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413#) - 🚨k가 for loop 맨 바깥에 있어야 한다
@@ -57,3 +58,4 @@
 * [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946#)
 * [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) - 🚨 순열과 조합을 빠르게 구현
 * [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) - 🚨 두 개의 index를 사용하여 시간복잡도를 감소시킨다
+* [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539?language=python3) - 🚨 numbers를 한 번 반복하면서 뒤에 있는 큰 수인 경우 출력

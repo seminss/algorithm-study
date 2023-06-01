@@ -38,6 +38,7 @@
 
 ### 정수
 * [\[3차\] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)
+* [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [정답](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42842.py) 🚨소인수분해
 
 ### 기타(≈구현)
 * [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)

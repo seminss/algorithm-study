@@ -18,6 +18,7 @@
 |[프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42587.py)|
 |[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42584.py)|
 |[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539?language=python3)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/154539.py)|
+|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42583.py)|
 
 ### 최단거리
 |문제|정답|메모|
@@ -86,3 +87,4 @@
 * [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539?language=python3) 🚨numbers를 한 번 반복하면서 뒤에 있는 큰 수인 경우 출력
 * [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) 🚨`rindex` 함수를 사용하면 마지막에 등장한 원소의 index를 구할 수 있다. 단, 없으면 error 발생. (`find` 함수를 사용하면 -1을 반환한다.)
 * [\[1차\] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679#.py)
+* [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)

@@ -51,6 +51,7 @@
 |문제|정답|메모|
 |----|----|----|
 |[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42577.py)|
+|[롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/132256.py)|
 
 ### 정수
 |문제|정답|메모|

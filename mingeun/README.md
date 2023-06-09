@@ -10,6 +10,8 @@
 |[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/1844.py)|🚨상하좌우 모두 이동해봐야 함
 |[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/84512.py)|
 |[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42839.py)|🚨0과 1은 소수가 아니다
+|[쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/68936.py)|🚨중점의 좌표 활용
+
 
 
 ### 스택/큐
@@ -89,4 +91,4 @@
 * [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539?language=python3) 🚨numbers를 한 번 반복하면서 뒤에 있는 큰 수인 경우 출력
 * [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) 🚨`rindex` 함수를 사용하면 마지막에 등장한 원소의 index를 구할 수 있다. 단, 없으면 error 발생. (`find` 함수를 사용하면 -1을 반환한다.)
 * [\[1차\] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679#.py)
-* [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+* [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|🚨구현 연습

@@ -39,5 +39,3 @@ def solution(m, n, board):
                         moved = 1
             if moved == 0 :
                 break
-                
-    return answer

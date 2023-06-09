@@ -1,6 +1,6 @@
 ## 코딩 테스트 스터디 🦅
 
-### DFS/BFS
+### DFS/BFS/완전탐색
 |문제|정답|메모|
 |----|----|----|
 |[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/43165.py)|
@@ -9,6 +9,8 @@
 |[숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/154538.py)|
 |[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/1844.py)|🚨상하좌우 모두 이동해봐야 함
 |[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/84512.py)|
+|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42839.py)|🚨0과 1은 소수가 아니다
+
 
 ### 스택/큐
 |문제|정답|메모|

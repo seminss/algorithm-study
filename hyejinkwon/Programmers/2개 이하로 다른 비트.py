@@ -5,6 +5,9 @@
 #                    0번째 다음 index의 비트를 바꾸자
 #                    1011 
 
+# bin 라이브러리 이용
+# int(str,2) -> 2진수를 10진수로 변경
+
 def solution(numbers):
     answer = []
     

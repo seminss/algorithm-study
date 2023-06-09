@@ -1,3 +1,5 @@
+# x <= y 가 되는 모든 연산결과를 set에 저장
+
 def solution(x, y, n):
     answer = 0
     result = False

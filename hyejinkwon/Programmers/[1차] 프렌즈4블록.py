@@ -2,7 +2,6 @@ def solution(m, n, board):
     answer = 0
     row_set = set()
     
-    # str은 초기화 할 수 없으므로 list로 타입 변환
     for i in range(m) : 
         board[i] = list(board[i])
     
@@ -20,7 +19,7 @@ def solution(m, n, board):
         
         # 4블록 있다면
         if row_set :
-            answer += len(row_set) # 사라질 블록 개수 
+            answer += len(row_set)
             for x,y in row_set :
                 board[x][y] = []
             row_set = set()
@@ -31,8 +30,9 @@ def solution(m, n, board):
         while True :
             moved = 0
             for i in range(m-1) :
-                for j in range(n-1) :
-                    # 아랫줄이 비어있다면 
+                # 틀린이유 : column은 행과 관련없으므로 n 까지 for문 탐색 
+                # n-1로 작성함
+                for j in range(n) :
                     if board[i][j] and board[i+1][j] == [] :
                         board[i+1][j] = board[i][j]
                         board[i][j] = []

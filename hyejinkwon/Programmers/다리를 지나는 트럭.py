@@ -16,8 +16,9 @@ def solution(bridge_length, weight, truck_weights):
         
         if wating :            
             if total + wating[0] <= weight:
-                total += wating[0]
-                riding.append(wating.popleft())
+                w = wating.popleft()
+                total += w
+                riding.append(w)
             else : # 탑승하지 못하는 트럭무게라면
                 riding.append(0) # 0 추가 
         

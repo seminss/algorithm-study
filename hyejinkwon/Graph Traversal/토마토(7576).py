@@ -50,4 +50,4 @@ for row_box in box :
             exit(0)
     day = max(day, max(row_box))
 
-print(day)
+print(day-1)

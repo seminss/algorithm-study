@@ -13,7 +13,6 @@ for i in range(N) :
 
 # 시작 시간 순 정렬 
 lecture.sort()
-
 heapq.heappush(priority_queue, lecture[0][1])
 
 for l in range(1,N) :

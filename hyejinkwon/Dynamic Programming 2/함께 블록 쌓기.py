@@ -16,4 +16,4 @@ for i in range(1, N+1) :
             # 전 줄과 합이 H가 될 수 있는 경우의 수
             dp[i][j] += dp[i-1][j-b]
 
-print(dp[N][M]%10007)
+print(dp[N][H]%10007)

@@ -24,6 +24,7 @@
 |[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539?language=python3)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/154539.py)|
 |[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42583.py)|
 |[택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/131704%23.py)|
+|[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/118667%23.py)|🚨`while` loop 종료 조건
 
 ### 최단거리
 |문제|정답|메모|
@@ -101,3 +102,4 @@
 * [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
 * [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704#)|🚨갑자기 정답 처리됨
 * [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|🚨투 포인터
+* [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667#)|🚨`while` loop 종료 조건

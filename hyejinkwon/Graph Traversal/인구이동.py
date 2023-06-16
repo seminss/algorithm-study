@@ -53,7 +53,7 @@ while True : # 계속 연합국가 있는지 확인
 
             if not visited[i][j] :
                 visited[i][j] = True
-                union = BFS(i,j)
+                union = BFS(i,j) # 연합국가 좌표 list 
 
             if len(union) > 1 :
                 moving = True # 인구이동 시작 
@@ -61,7 +61,7 @@ while True : # 계속 연합국가 있는지 확인
                     value += A[x][y]
 
                 for x,y in union :
-                    A[x][y] = value//len(union)
+                    A[x][y] = value//len(union) # 인구 재배정 
     
     if not moving : # 인구이동이 없다면
         print(answer)

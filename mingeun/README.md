@@ -1,6 +1,6 @@
 ## 코딩 테스트 스터디 🦅
 
-### DFS/BFS
+### DFS/BFS/완전탐색
 |문제|정답|메모|
 |----|----|----|
 |[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/43165.py)|
@@ -9,6 +9,10 @@
 |[숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/154538.py)|
 |[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/1844.py)|🚨상하좌우 모두 이동해봐야 함
 |[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/84512.py)|
+|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42839.py)|🚨0과 1은 소수가 아니다
+|[쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/68936.py)|🚨중점의 좌표 활용
+
+
 
 ### 스택/큐
 |문제|정답|메모|
@@ -19,6 +23,7 @@
 |[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42584.py)|
 |[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539?language=python3)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/154539.py)|
 |[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42583.py)|
+|[택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/131704%23.py)|
 
 ### 최단거리
 |문제|정답|메모|
@@ -60,6 +65,7 @@
 |[\[3차\] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/17687.py)|
 |[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42842.py)|🚨소인수분해
 |[2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/77885.py)|🚨2진수 -> 짝수와 홀수를 나누어 생각
+|[124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12899.py)|🚨3진법 변형
 
 ### 기타(≈구현)
 |문제|정답|메모|
@@ -76,6 +82,8 @@
 |[방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/49994%23.py)|🚨A->B를 방문했다면 B->A는 방문할 수 없다
 |[스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/49993.py)|
 |[\[1차\] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679#.py)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/17679%23.py)|
+|[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883.py)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42883.py)|🚨greedy
+|[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/68645.py)|🚨회오리
 
 ### 나중에 다시 풀어볼 문제
 * [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127#)
@@ -87,4 +95,7 @@
 * [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539?language=python3) 🚨numbers를 한 번 반복하면서 뒤에 있는 큰 수인 경우 출력
 * [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) 🚨`rindex` 함수를 사용하면 마지막에 등장한 원소의 index를 구할 수 있다. 단, 없으면 error 발생. (`find` 함수를 사용하면 -1을 반환한다.)
 * [\[1차\] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679#.py)
-* [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+* [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) 🚨구현 연습
+* [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) 🚨3진법 변형
+* [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
+* [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704#)|🚨갑자기 정답 처리됨

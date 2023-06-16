@@ -84,6 +84,7 @@
 |[\[1차\] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679#.py)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/17679%23.py)|
 |[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883.py)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42883.py)|🚨greedy
 |[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/68645.py)|🚨회오리
+|[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/178870.py)|🚨투 포인터
 
 ### 나중에 다시 풀어볼 문제
 * [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127#)
@@ -99,3 +100,4 @@
 * [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) 🚨3진법 변형
 * [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
 * [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704#)|🚨갑자기 정답 처리됨
+* [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|🚨투 포인터

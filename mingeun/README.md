@@ -23,6 +23,7 @@
 |[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42584.py)|
 |[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539?language=python3)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/154539.py)|
 |[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42583.py)|
+|[택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/131704%23.py)|
 
 ### 최단거리
 |문제|정답|메모|
@@ -97,3 +98,4 @@
 * [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) 🚨구현 연습
 * [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) 🚨3진법 변형
 * [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
+* [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704#)|🚨갑자기 정답 처리됨

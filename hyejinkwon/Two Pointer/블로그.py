@@ -10,13 +10,12 @@ value = answer[0]
 if max(visited) == 0 :
     print("SAD")
     exit(0)
-    
+
 for i in range(X,N) :
     value += visited[i]
     value -= visited[i-X]
     answer.append(value)
 
-print(answer)
 answer = sorted(answer, reverse=True)
 max_people = answer[0]
 day = 1

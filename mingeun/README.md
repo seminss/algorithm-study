@@ -12,6 +12,7 @@
 |[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42839.py)|🚨0과 1은 소수가 아니다
 |[쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/68936.py)|🚨중점의 좌표 활용
 |[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/72411.py)|🚨`issubset()`
+|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/154540.py)
 
 
 
@@ -101,6 +102,8 @@
 * [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) 🚨구현 연습
 * [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) 🚨3진법 변형
 * [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
-* [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704#)|🚨갑자기 정답 처리됨
-* [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|🚨투 포인터
-* [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667#)|🚨`while` loop 종료 조건
+* [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704#) 🚨갑자기 정답 처리됨
+* [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) 🚨투 포인터
+* [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667#) 🚨`while` loop 종료 조건
+* [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) 🚨`issubset()`
+* [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) 🚨빨리 구현하는 연습

@@ -11,6 +11,7 @@
 |[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/84512.py)|
 |[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42839.py)|🚨0과 1은 소수가 아니다
 |[쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/68936.py)|🚨중점의 좌표 활용
+|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/72411.py)|🚨`issubset()`
 
 
 

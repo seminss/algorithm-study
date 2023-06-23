@@ -16,6 +16,8 @@ for i in range(n) :
         elif square[i][j] == 1 :
             dp[i][j] = min(dp[i-1][j], dp[i][j-1], dp[i-1][j-1]) + 1
         
-        answer = max(max(dp[i]), answer)
-
-print(answer)
+        answer = max(dp[i][j], answer)
+    
+    # 행마다 max값 다시 확인하면 -> 시간초과
+    # answer = max(max[i][j]), answer) 
+print(answer**2)

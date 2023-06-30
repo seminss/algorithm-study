@@ -11,6 +11,8 @@
 |[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/84512.py)|
 |[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42839.py)|🚨0과 1은 소수가 아니다
 |[쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/68936.py)|🚨중점의 좌표 활용
+|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/72411.py)|🚨`issubset()`
+|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/154540.py)
 
 
 
@@ -24,6 +26,7 @@
 |[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539?language=python3)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/154539.py)|
 |[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42583.py)|
 |[택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/131704%23.py)|
+|[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/118667%23.py)|🚨`while` loop 종료 조건
 
 ### 최단거리
 |문제|정답|메모|
@@ -85,6 +88,13 @@
 |[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883.py)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42883.py)|🚨greedy
 |[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/68645.py)|🚨회오리
 
+### 투 포인터
+|문제|정답|메모|
+|----|----|----|
+|[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/178870.py)|
+|[블로그](https://www.acmicpc.net/problem/21921)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/21921.py)|
+|[회전초밥](https://www.acmicpc.net/problem/15961)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/15961.py)|🚨시간초과
+
 ### 나중에 다시 풀어볼 문제
 * [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127#)
 * [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
@@ -98,4 +108,9 @@
 * [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) 🚨구현 연습
 * [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) 🚨3진법 변형
 * [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
-* [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704#)|🚨갑자기 정답 처리됨
+* [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704#) 🚨갑자기 정답 처리됨
+* [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) 🚨투 포인터
+* [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667#) 🚨`while` loop 종료 조건
+* [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) 🚨`issubset()`
+* [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) 🚨빨리 구현하는 연습
+* [회전초밥](https://www.acmicpc.net/problem/15961) 🚨시간초과

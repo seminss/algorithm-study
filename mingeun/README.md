@@ -93,6 +93,7 @@
 |----|----|----|
 |[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/178870.py)|
 |[블로그](https://www.acmicpc.net/problem/21921)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/21921.py)|
+|[회전초밥](https://www.acmicpc.net/problem/15961)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/15961.py)|🚨시간초과
 
 ### 나중에 다시 풀어볼 문제
 * [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127#)
@@ -112,3 +113,4 @@
 * [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667#) 🚨`while` loop 종료 조건
 * [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) 🚨`issubset()`
 * [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) 🚨빨리 구현하는 연습
+* [회전초밥](https://www.acmicpc.net/problem/15961) 🚨시간초과

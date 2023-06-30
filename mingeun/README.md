@@ -87,7 +87,12 @@
 |[\[1차\] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679#.py)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/17679%23.py)|
 |[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883.py)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42883.py)|🚨greedy
 |[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/68645.py)|🚨회오리
-|[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/178870.py)|🚨투 포인터
+
+### 투 포인터
+|문제|정답|메모|
+|----|----|----|
+|[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/178870.py)|
+|[블로그](https://www.acmicpc.net/problem/21921)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/21921.py)|
 
 ### 나중에 다시 풀어볼 문제
 * [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127#)

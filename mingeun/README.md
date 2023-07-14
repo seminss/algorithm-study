@@ -16,8 +16,10 @@
 |[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/60058.py)|🚨문제 이해
 |[전력망 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/86971.py)|
 
-
-
+### 백트래킹
+|문제|정답|메모|
+|----|----|----|
+|[N과 M(5)](https://www.acmicpc.net/problem/15654)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/15654.py)
 
 ### 스택/큐
 |문제|정답|메모|

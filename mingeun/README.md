@@ -14,6 +14,7 @@
 |[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/72411.py)|🚨`issubset()`
 |[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/154540.py)
 |[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/60058.py)|🚨문제 이해
+|[전력망 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/86971.py)|
 
 
 

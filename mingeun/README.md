@@ -91,6 +91,11 @@
 |[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883.py)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42883.py)|🚨greedy
 |[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/68645.py)|🚨회오리
 
+### 행렬
+|문제|정답|메모|
+|----|----|----|
+|[행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/44485.py)|🚨회오리
+
 ### 투 포인터
 |문제|정답|메모|
 |----|----|----|

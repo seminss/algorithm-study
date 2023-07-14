@@ -13,6 +13,8 @@
 |[쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/68936.py)|🚨중점의 좌표 활용
 |[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/72411.py)|🚨`issubset()`
 |[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/154540.py)
+|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/60058.py)|🚨문제 이해
+
 
 
 
@@ -27,6 +29,7 @@
 |[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42583.py)|
 |[택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/131704%23.py)|
 |[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/118667%23.py)|🚨`while` loop 종료 조건
+|[수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/67257.py)|🚨중위->후위 표현식 & 후위 표현식 계산
 
 ### 최단거리
 |문제|정답|메모|
@@ -114,3 +117,4 @@
 * [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) 🚨`issubset()`
 * [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) 🚨빨리 구현하는 연습
 * [회전초밥](https://www.acmicpc.net/problem/15961) 🚨시간초과
+* [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) 🚨문제 이해 & 재귀 함수

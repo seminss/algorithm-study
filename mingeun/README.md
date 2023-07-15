@@ -15,6 +15,7 @@
 |[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/154540.py)
 |[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/60058.py)|🚨문제 이해
 |[전력망 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/86971.py)|
+|[넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/14712.py)|🚨처음 보는 백트래킹 적용
 
 ### 백트래킹
 |문제|정답|메모|
@@ -126,3 +127,4 @@
 * [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) 🚨빨리 구현하는 연습
 * [회전초밥](https://www.acmicpc.net/problem/15961) 🚨시간초과
 * [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) 🚨문제 이해 & 재귀 함수
+* [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) 🚨처음 보는 백트래킹 적용

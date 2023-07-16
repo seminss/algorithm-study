@@ -76,6 +76,7 @@
 |[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42842.py)|🚨소인수분해
 |[2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/77885.py)|🚨2진수 -> 짝수와 홀수를 나누어 생각
 |[124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12899.py)|🚨3진법 변형
+|[줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12936%23.py)|🚨[자세한 설명](https://www.mingeun2154.github.io/algorithm/12936-23/)
 
 ### 기타(≈구현)
 |문제|정답|메모|
@@ -83,7 +84,7 @@
 |[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/138476.py)|
 |[\[1차\] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/17680.py)|🚨hit이더라도 큐에서 뺏다가 다시 넣어줘야 우선순위가 업데이트된다
 |[연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/131701.py)|
-|[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/131127.py)|
+|[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/131127%23.py)|
 |[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/64065.py)|
 |[주차요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/92341.py)|
 |[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42888.py)|

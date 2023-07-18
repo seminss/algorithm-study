@@ -96,6 +96,7 @@
 |[\[1차\] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679#.py)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/17679%23.py)|
 |[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883.py)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42883.py)|🚨greedy
 |[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/68645.py)|🚨회오리
+|[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651%23)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/155651#.py)|🚨입력값을 정렬해야 한다
 
 ### 행렬
 |문제|정답|메모|

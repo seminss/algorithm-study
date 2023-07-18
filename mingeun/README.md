@@ -39,6 +39,7 @@
 |문제|정답|메모|
 |----|----|----|
 |[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/72413%23.py)|🚨k가 for loop 맨 바깥에 있어야 한다
+|[배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12978.py)|
 
 ### DP
 |문제|정답|메모|

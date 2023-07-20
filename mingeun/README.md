@@ -46,6 +46,8 @@
 |----|----|----|
 |[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12913.py)|
 |[2xn 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12900.py)|🚨dp 테이블의 각 원소를 계산할때마다 1000000007로 나눠줘야 제한시간 안에 해결된다
+|[가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905%23)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12905#.py)|🚨2차원 리스트에 값을 덮어쓰는 방식
+
 
 ### Heap
 |문제|정답|메모|

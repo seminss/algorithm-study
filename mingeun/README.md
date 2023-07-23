@@ -15,6 +15,7 @@
 |[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/154540.py)
 |[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/60058.py)|🚨문제 이해
 |[전력망 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/86971.py)|
+|[넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/14712.py)|🚨처음 보는 백트래킹 적용
 
 ### 백트래킹
 |문제|정답|메모|
@@ -38,12 +39,15 @@
 |문제|정답|메모|
 |----|----|----|
 |[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/72413%23.py)|🚨k가 for loop 맨 바깥에 있어야 한다
+|[배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12978.py)|
 
 ### DP
 |문제|정답|메모|
 |----|----|----|
 |[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12913.py)|
 |[2xn 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12900.py)|🚨dp 테이블의 각 원소를 계산할때마다 1000000007로 나눠줘야 제한시간 안에 해결된다
+|[가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905%23)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12905#.py)|🚨2차원 리스트에 값을 덮어쓰는 방식
+
 
 ### Heap
 |문제|정답|메모|
@@ -75,6 +79,7 @@
 |[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42842.py)|🚨소인수분해
 |[2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/77885.py)|🚨2진수 -> 짝수와 홀수를 나누어 생각
 |[124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12899.py)|🚨3진법 변형
+|[줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12936%23.py)|🚨[자세한 설명](https://www.mingeun2154.github.io/algorithm/12936-23/)
 
 ### 기타(≈구현)
 |문제|정답|메모|
@@ -82,7 +87,7 @@
 |[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/138476.py)|
 |[\[1차\] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/17680.py)|🚨hit이더라도 큐에서 뺏다가 다시 넣어줘야 우선순위가 업데이트된다
 |[연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/131701.py)|
-|[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/131127.py)|
+|[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/131127%23.py)|
 |[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/64065.py)|
 |[주차요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/92341.py)|
 |[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42888.py)|
@@ -93,6 +98,9 @@
 |[\[1차\] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679#.py)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/17679%23.py)|
 |[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883.py)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42883.py)|🚨greedy
 |[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/68645.py)|🚨회오리
+|[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651%23)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/155651#.py)|🚨입력값을 정렬해야 한다
+|[점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/140107.py)|🚨`math.sqrt`
+
 
 ### 행렬
 |문제|정답|메모|
@@ -126,3 +134,4 @@
 * [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) 🚨빨리 구현하는 연습
 * [회전초밥](https://www.acmicpc.net/problem/15961) 🚨시간초과
 * [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) 🚨문제 이해 & 재귀 함수
+* [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) 🚨처음 보는 백트래킹 적용

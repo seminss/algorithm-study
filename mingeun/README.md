@@ -15,12 +15,14 @@
 |[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/154540.py)
 |[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/60058.py)|🚨문제 이해
 |[전력망 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/86971.py)|
-|[넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/14712.py)|🚨처음 보는 백트래킹 적용
+|[14712 넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/14712.py)|🚨처음 보는 백트래킹 적용
+|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/81302.py)|🚨모든 검사를 통과해야 1 반환
+
 
 ### 백트래킹
 |문제|정답|메모|
 |----|----|----|
-|[N과 M(5)](https://www.acmicpc.net/problem/15654)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/15654.py)
+|[15654 N과 M(5)](https://www.acmicpc.net/problem/15654)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/15654.py)
 
 ### 스택/큐
 |문제|정답|메모|
@@ -47,6 +49,7 @@
 |[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12913.py)|
 |[2xn 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12900.py)|🚨dp 테이블의 각 원소를 계산할때마다 1000000007로 나눠줘야 제한시간 안에 해결된다
 |[가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905%23)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12905#.py)|🚨2차원 리스트에 값을 덮어쓰는 방식
+|[2169 로봇 조종하기](https://www.acmicpc.net/problem/2169)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/2169.py)|
 
 
 ### Heap
@@ -79,7 +82,9 @@
 |[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42842.py)|🚨소인수분해
 |[2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/77885.py)|🚨2진수 -> 짝수와 홀수를 나누어 생각
 |[124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12899.py)|🚨3진법 변형
-|[줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12936%23.py)|🚨[자세한 설명](https://www.mingeun2154.github.io/algorithm/12936-23/)
+|[줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12936%23.py)|🚨[자세한 설명](https://www.mingeun2154.github.io/algorithm/)
+|[마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/148653%23.py)|🚨경계값 4, 5
+|[숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/135807.py)|🚨유클리드 최대공약수 알고리즘
 
 ### 기타(≈구현)
 |문제|정답|메모|
@@ -111,8 +116,8 @@
 |문제|정답|메모|
 |----|----|----|
 |[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/178870.py)|
-|[블로그](https://www.acmicpc.net/problem/21921)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/21921.py)|
-|[회전초밥](https://www.acmicpc.net/problem/15961)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/15961.py)|🚨시간초과
+|[21921 블로그](https://www.acmicpc.net/problem/21921)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/21921.py)|
+|[15961 회전초밥](https://www.acmicpc.net/problem/15961)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/15961.py)|🚨시간초과
 
 ### 나중에 다시 풀어볼 문제
 * [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127#)

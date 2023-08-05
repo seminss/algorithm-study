@@ -74,6 +74,7 @@
 |----|----|----|
 |[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42577.py)|
 |[롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/132256.py)|
+|[시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996%23)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/152996#.py)|🚨`Counter`
 
 ### 정수
 |문제|정답|메모|
@@ -85,6 +86,7 @@
 |[줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12936%23.py)|🚨[자세한 설명](https://www.mingeun2154.github.io/algorithm/)
 |[마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/148653%23.py)|🚨경계값 4, 5
 |[숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/135807.py)|🚨유클리드 최대공약수 알고리즘
+|[멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/62048.py)|🚨직선이 양 꼭짓점을 지나는 가로 세로 길이가 서로소인 사각형을 지나는 경우 자르게 되는 사각형의 개수는 _w+_h-1
 
 ### 기타(≈구현)
 |문제|정답|메모|

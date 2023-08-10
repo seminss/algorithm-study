@@ -22,7 +22,10 @@
 ### Greedy
 |문제|정답|메모|
 |----|----|----|
+|[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883.py)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42883.py)|🚨greedy
 |[14916 거스름돈](https://www.acmicpc.net/problem/14916)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/14916.py)|🚨5로 나누어 떨어지는 것이 최선이다.
+|[1343 폴리오미노](https://www.acmicpc.net/problem/1343)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/1343.py)|🚨while문 조건식에서 index의 범위 검사
+
 
 ### 백트래킹
 |문제|정답|메모|
@@ -108,7 +111,6 @@
 |[방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/49994%23.py)|🚨A->B를 방문했다면 B->A는 방문할 수 없다
 |[스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/49993.py)|
 |[\[1차\] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679#.py)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/17679%23.py)|
-|[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883.py)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42883.py)|🚨greedy
 |[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/68645.py)|🚨회오리
 |[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651%23)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/155651#.py)|🚨입력값을 정렬해야 한다
 |[점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/140107.py)|🚨`math.sqrt`

@@ -19,6 +19,11 @@
 |[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/81302.py)|🚨모든 검사를 통과해야 1 반환
 
 
+### Greedy
+|문제|정답|메모|
+|----|----|----|
+|[14916 거스름돈](https://www.acmicpc.net/problem/14916)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/14916.py)|🚨5로 나누어 떨어지는 것이 최선이다.
+
 ### 백트래킹
 |문제|정답|메모|
 |----|----|----|

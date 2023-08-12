@@ -27,6 +27,7 @@
 |[1343 폴리오미노](https://www.acmicpc.net/problem/1343)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/1343.py)|🚨while문 조건식에서 index의 범위 검사
 |[2217 로프](https://www.acmicpc.net/problem/2217)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/2217.py)|🚨index의 범위 검사
 |[11000 강의실 배정](https://www.acmicpc.net/problem/2217)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/11000.py)|🚨`sys.stdin.readline`
+|[1758 알바생 강호](https://www.acmicpc.net/problem/1758)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/1758.py)|
 
 
 ### 백트래킹

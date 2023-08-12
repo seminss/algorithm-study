@@ -25,6 +25,7 @@
 |[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883.py)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42883.py)|🚨greedy
 |[14916 거스름돈](https://www.acmicpc.net/problem/14916)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/14916.py)|🚨5로 나누어 떨어지는 것이 최선이다.
 |[1343 폴리오미노](https://www.acmicpc.net/problem/1343)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/1343.py)|🚨while문 조건식에서 index의 범위 검사
+|[2217 로프](https://www.acmicpc.net/problem/2217)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/2217.py)|🚨index의 범위 검사
 
 
 ### 백트래킹

@@ -30,6 +30,7 @@
 |[1758 알바생 강호](https://www.acmicpc.net/problem/1758)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/1758.py)|
 |[13164 행복 유치원](https://www.acmicpc.net/problem/13164)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/13164.py)|🚨gap을 (k-1)개 선택하는 것이 k개의 그룹을 만드는 것이다.
 |[19598 최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/19598.py)|
+|[11399 ATM](https://www.acmicpc.net/problem/11399)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/11399.py)|
 
 
 ### 백트래킹

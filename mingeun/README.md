@@ -1,5 +1,10 @@
 ## 코딩 테스트 스터디 🦅
 
+### 이분탐색
+|문제|정답|메모|
+|----|----|----|
+|[3079 입국심사](https://www.acmicpc.net/problem/3079)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/3079.py)|🚨`x = min(x, mid)`
+
 ### DFS/BFS/완전탐색
 |문제|정답|메모|
 |----|----|----|

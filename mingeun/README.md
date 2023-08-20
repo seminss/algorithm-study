@@ -1,5 +1,10 @@
 ## 코딩 테스트 스터디 🦅
 
+### 이분탐색
+|문제|정답|메모|
+|----|----|----|
+|[3079 입국심사](https://www.acmicpc.net/problem/3079)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/3079.py)|🚨`x = min(x, mid)`
+
 ### DFS/BFS/완전탐색
 |문제|정답|메모|
 |----|----|----|
@@ -27,6 +32,10 @@
 |[1343 폴리오미노](https://www.acmicpc.net/problem/1343)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/1343.py)|🚨while문 조건식에서 index의 범위 검사
 |[2217 로프](https://www.acmicpc.net/problem/2217)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/2217.py)|🚨index의 범위 검사
 |[11000 강의실 배정](https://www.acmicpc.net/problem/2217)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/11000.py)|🚨`sys.stdin.readline`
+|[1758 알바생 강호](https://www.acmicpc.net/problem/1758)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/1758.py)|
+|[13164 행복 유치원](https://www.acmicpc.net/problem/13164)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/13164.py)|🚨gap을 (k-1)개 선택하는 것이 k개의 그룹을 만드는 것이다.
+|[19598 최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/19598.py)|
+|[11399 ATM](https://www.acmicpc.net/problem/11399)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/11399.py)|
 
 
 ### 백트래킹

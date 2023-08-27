@@ -1,13 +1,18 @@
 ## 코딩 테스트 스터디 🦅
 
+### 이분탐색
+|문제|정답|메모|
+|----|----|----|
+|[3079 입국심사](https://www.acmicpc.net/problem/3079)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/3079.py)|🚨`x = min(x, mid)`
+
 ### DFS/BFS/완전탐색
 |문제|정답|메모|
 |----|----|----|
-|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/43165.py)|
+|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|[Python](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/43165.py) [Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/43165.java)|
 |[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/87946.py)|🚨순열 구현 + 백트래킹
 |[숨바꼭질](https://www.acmicpc.net/problem/1697)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/1697.py)|
 |[숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/154538.py)|
-|[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/1844.py)|🚨상하좌우 모두 이동해봐야 함
+|[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|[Python](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/1844.py) [Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/1844.java)|🚨상하좌우 모두 이동해봐야 함
 |[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/84512.py)|
 |[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42839.py)|🚨0과 1은 소수가 아니다
 |[쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/68936.py)|🚨중점의 좌표 활용
@@ -17,6 +22,7 @@
 |[전력망 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/86971.py)|
 |[14712 넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/14712.py)|🚨처음 보는 백트래킹 적용
 |[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/81302.py)|🚨모든 검사를 통과해야 1 반환
+|[2615 오목](https://www.acmicpc.net/problem/2615)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/2615.py)|🚨5개 이상 인정 안됨, 방향에 따라 시작 좌표를 다르게 출력
 
 
 ### Greedy
@@ -27,6 +33,10 @@
 |[1343 폴리오미노](https://www.acmicpc.net/problem/1343)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/1343.py)|🚨while문 조건식에서 index의 범위 검사
 |[2217 로프](https://www.acmicpc.net/problem/2217)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/2217.py)|🚨index의 범위 검사
 |[11000 강의실 배정](https://www.acmicpc.net/problem/2217)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/11000.py)|🚨`sys.stdin.readline`
+|[1758 알바생 강호](https://www.acmicpc.net/problem/1758)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/1758.py)|
+|[13164 행복 유치원](https://www.acmicpc.net/problem/13164)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/13164.py)|🚨gap을 (k-1)개 선택하는 것이 k개의 그룹을 만드는 것이다.
+|[19598 최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/19598.py)|
+|[11399 ATM](https://www.acmicpc.net/problem/11399)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/11399.py)|
 
 
 ### 백트래킹

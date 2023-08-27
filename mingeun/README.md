@@ -75,7 +75,7 @@
 ### Heap
 |문제|정답|메모|
 |----|----|----|
-|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42626.py)|
+|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|[Python](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42626.py) [Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42626.java)|
 
 ### 정렬
 |문제|정답|메모|

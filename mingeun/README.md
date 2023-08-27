@@ -8,7 +8,7 @@
 ### DFS/BFS/완전탐색
 |문제|정답|메모|
 |----|----|----|
-|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/43165.py)|
+|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|[Python](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/43165.py) [Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/43165.java)|
 |[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/87946.py)|🚨순열 구현 + 백트래킹
 |[숨바꼭질](https://www.acmicpc.net/problem/1697)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/1697.py)|
 |[숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/154538.py)|

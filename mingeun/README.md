@@ -25,6 +25,7 @@
 |[2615 오목](https://www.acmicpc.net/problem/2615)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/2615.py)|🚨5개 이상 인정 안됨, 방향에 따라 시작 좌표를 다르게 출력
 |[12919 A와 B 2](https://www.acmicpc.net/problem/12919)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Solution12919.java)|🚨역으로 T에서 S로 변환
 |[1548 부분 삼각 수열](https://www.acmicpc.net/problem/1548)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Solution1548.java)|🚨가장 큰 값 < 가장 작은 값 + 다음으로 작은 값
+|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/43162.java)
 
 
 ### Greedy

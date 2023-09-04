@@ -27,6 +27,7 @@
 |[1548 부분 삼각 수열](https://www.acmicpc.net/problem/1548)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Solution1548.java)|🚨가장 큰 값 < 가장 작은 값 + 다음으로 작은 값
 |[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/43162.java)
 |[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/12927.java)
+|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/43163.java)
 
 
 ### Greedy

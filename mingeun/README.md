@@ -81,6 +81,7 @@
 |문제|정답|메모|
 |----|----|----|
 |[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|[Python](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42626.py) [Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42626.java)|
+|[디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627#)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42627#.java)|🚨실행시간이 다른 두 개 이상의 task가 같은 시각에 도착한 경우. readyQueue와 waitingQueue 사용
 
 ### 정렬
 |문제|정답|메모|

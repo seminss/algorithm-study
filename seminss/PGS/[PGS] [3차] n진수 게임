@@ -1,0 +1,19 @@
+def solution(n, t, m, p):
+    answer=''
+    data = '0'
+    cnt=0
+    while len(data)<t*m:
+        idx=1+cnt
+        tmp=''
+        while idx>0:
+            mod=idx%n
+            if mod<10:
+                tmp+=str(mod)
+            else:
+                tmp+=chr(65+mod-10)
+            idx=idx//n
+        data+=tmp[::-1]
+        cnt+=1
+    for i in range(p-1,t*m,m):
+        answer+=data[i]
+    return answer

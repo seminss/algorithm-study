@@ -4,7 +4,6 @@ input = sys.stdin.readline
 N,M = list(map(int,input().split()))
  
 s = []
-
 def dfs():
     if len(s)==M:
         print(' '.join(map(str,s)))

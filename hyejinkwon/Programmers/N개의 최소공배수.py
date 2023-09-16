@@ -1,23 +1,23 @@
-def GCD(N1, N2) :
-    while N2 > 0 :
-        N1, N2 = N2, N1%N2
+# 최대공약수 주의!
+def GCD(a,b) :
+    while b > 0 :
+        a, b = b, a%b
+        
+    return a
     
-    return N1
-
-def LCM(N1,N2) :
-    gcd = GCD(N1,N2)
-    return N1*N2//gcd
-
+def LCM(a,b, gcd) :
+    return gcd * a//gcd * b//gcd
+    
+    
 def solution(arr):
     answer = 0
-    i = 0
-    before_lcm = LCM(arr[i], arr[i+1])
-    i = 2
     
-    while i < len(arr) :
-        lcm = LCM(before_lcm, arr[i])
-        before_lcm = lcm
-        i+=1
+    for i in range(1,len(arr)) :
+        gcd = GCD(arr[i-1], arr[i])
+        print(arr[i-1], arr[i], gcd)
+        lcm = LCM(arr[i-1], arr[i], gcd)
+        arr[i] = lcm
         
-    answer = before_lcm
+    answer = arr[-1]
+    
     return answer

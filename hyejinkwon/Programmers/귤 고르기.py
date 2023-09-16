@@ -1,3 +1,4 @@
+'''
 def solution(k, tangerine):
     answer = 0
     orange = {}
@@ -15,4 +16,21 @@ def solution(k, tangerine):
         if k <= 0 :
             break
     
+    return answer
+'''
+
+# Counter 사용
+import collections
+
+def solution(k, tangerine):
+    answer = 0
+    kind = collections.Counter(tangerine)
+    kind = sorted(kind.values(), reverse=True)
+    
+    for value in kind :
+        answer += 1
+        k -= value
+        if k <=0 :
+            break
+            
     return answer

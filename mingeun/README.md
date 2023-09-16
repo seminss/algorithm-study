@@ -28,6 +28,7 @@
 |[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/43162.java)
 |[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/12927.java)
 |[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/43163.java)
+|[여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/43164.java)|🚨여행 경로를 문자열로 만들어 모두 저장한 뒤 정렬
 
 
 ### Greedy

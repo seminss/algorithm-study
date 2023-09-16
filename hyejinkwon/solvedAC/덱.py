@@ -3,10 +3,10 @@ from collections import deque
 
 input = sys.stdin.readline
 
-N = int(input().rstrip())
+N = int(input())
 deque = deque([])
 for _ in range(N) :
-    command = input()
+    command = input().rstrip()
     if "push_back" in command : 
         com, num = command.split()
         deque.append(int(num))
@@ -30,4 +30,3 @@ for _ in range(N) :
     elif "pop_back" == command :
         if len(deque) == 0 :print(-1)
         else: print(deque.pop())
-    print(deque)

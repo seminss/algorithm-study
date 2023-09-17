@@ -13,5 +13,5 @@ def prime_number(n) :
         return True
     
 for i in range(N,M+1) :
-    if prime_number(i) :
+    if i!= 1 and prime_number(i) :
         print(i)

@@ -7,6 +7,6 @@ for _ in range(N) :
     x,y = map(int,input().split())
     point.append([x,y])
 
-point = sorted(point, key=lambda x : (x[0],x[1]))
+point = sorted(point, key=lambda x : (x[1],x[0]))
 for x,y in point :
     print(x,y)

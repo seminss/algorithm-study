@@ -9,8 +9,8 @@ for _ in range(N) :
     human.append([x,y])
 
 for i in range(N) :
-    rank = N
+    rank = 1
     for j in range(N) :
-        if i!=j and human[i][0] > human[j][0] and human[i][1] > human[j][1] :
-            rank -= 1
+        if i!=j and human[i][0] < human[j][0] and human[i][1] < human[j][1] :
+            rank += 1
     print(rank, end=" ") 

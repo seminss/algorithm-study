@@ -14,7 +14,7 @@ for i in range(1000001) :
     for ii in str(i) :
         if ii in no_button:
             break   
-        if ii == str(i)[-1] :
-            answer = min(answer, len(i)+abs(i-N) )
+    else :
+        answer = min(answer, len(str(i))+abs(i-N) )
 
 print(answer)

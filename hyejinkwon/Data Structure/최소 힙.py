@@ -14,8 +14,5 @@ for _ in range(N) :
         else :
             h = heapq.heappop(heap)
             print(h)
-        print(heap)
-
     else :
         heapq.heappush(heap, comment)
-        print(heap)

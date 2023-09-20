@@ -11,4 +11,4 @@ for i in range(N) :
 
 for _ in range(M) :
     s,e = map(int,input().split())
-    print(prefix[e-1] - prefix[s-1])
+    print(prefix[e] - prefix[s-1])

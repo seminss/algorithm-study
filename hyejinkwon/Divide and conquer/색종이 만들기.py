@@ -25,8 +25,9 @@ def check(x,y,division) :
                 check(x+division//2, y+division//2, division//2)
                 return
 
-    if color == 0 : blue += 1
-    else : white += 1
+    if color == 0 : white += 1
+    else : blue += 1
 
 check(0,0,N)
-print(white,"\n",blue)
+print(white)
+print(blue)

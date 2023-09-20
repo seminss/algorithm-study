@@ -28,7 +28,6 @@ def BFS(x,y, graph) :
             if xx < 0 or xx >= N or yy < 0 or yy >= N :
                 continue
             
-            print(xx,yy, end='  ')
             if graph[xx][yy] == 1 :
                 graph[xx][yy] = 0 # visited 체크
                 queue.append((xx,yy))

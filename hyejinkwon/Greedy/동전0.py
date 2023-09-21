@@ -8,6 +8,8 @@ answer = 0
 for _ in range(N) :
     coin.append(int(input()))
 
-coin.sort()
+for i in range(N-1,-1,-1):
+    answer += K//coin[i]
+    K %= coin[i]
 
-
+print(answer)

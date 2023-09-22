@@ -8,7 +8,6 @@ for _ in range(M) :
     command = input().rstrip()
     if ' ' in command :
         command, x = command.split()
-        print("x : ",x)
         x = int(x) 
 
     if command == "add" : S.add(x)

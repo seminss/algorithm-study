@@ -40,6 +40,7 @@
 |[경로 찾기](https://www.acmicpc.net/problem/11403)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main11403.java)|🚨플로이드 워셜 알고리즘
 |[숨바꼭질](https://www.acmicpc.net/problem/13549)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main13549.java)|🚨Dijkstra's
 |[최단경로](https://www.acmicpc.net/problem/1753)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1753.java)|🚨간선의 가중치가 다른 경우 `PriorityQueue`를 사용
+|[택배](https://www.acmicpc.net/problem/1719)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1719.java)|🚨`nextStation[i][j] = nextStation[i][k]`
 
 
 ### Greedy

@@ -30,6 +30,7 @@
 |[여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/43164.java)|🚨여행 경로를 문자열로 만들어 모두 저장한 뒤 정렬
 |[바이러스](https://www.acmicpc.net/problem/2606)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Solution2606.java)
 |[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main11725.java)
+|[미로 탐색](https://www.acmicpc.net/problem/2178)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main2178.java)
 
 ### 최단거리
 |문제|정답|메모|

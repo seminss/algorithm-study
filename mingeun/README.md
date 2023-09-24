@@ -32,6 +32,7 @@
 |[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main11725.java)
 |[미로 탐색](https://www.acmicpc.net/problem/2178)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main2178.java)
 |[트리의 지름](https://www.acmicpc.net/problem/1967)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1967.java)
+|[토마토](https://www.acmicpc.net/problem/7576)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main7576.java)
 
 ### 최단거리
 |문제|정답|메모|

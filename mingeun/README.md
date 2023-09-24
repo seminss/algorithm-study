@@ -12,7 +12,6 @@
 |[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/87946.py)|🚨순열 구현 + 백트래킹
 |[숨바꼭질](https://www.acmicpc.net/problem/1697)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/1697.py)|
 |[숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/154538.py)|
-|[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|[Python](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/1844.py) [Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/1844.java)|🚨상하좌우 모두 이동해봐야 함
 |[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/84512.py)|
 |[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42839.py)|🚨0과 1은 소수가 아니다
 |[쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/68936.py)|🚨중점의 좌표 활용
@@ -29,6 +28,23 @@
 |[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/12927.java)
 |[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/43163.java)
 |[여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/43164.java)|🚨여행 경로를 문자열로 만들어 모두 저장한 뒤 정렬
+|[바이러스](https://www.acmicpc.net/problem/2606)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Solution2606.java)
+|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main11725.java)
+|[미로 탐색](https://www.acmicpc.net/problem/2178)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main2178.java)
+|[트리의 지름](https://www.acmicpc.net/problem/1967)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1967.java)
+
+### 최단거리
+|문제|정답|메모|
+|----|----|----|
+|[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|[Python](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/1844.py) [Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/1844.java)|🚨상하좌우 모두 이동해봐야 함
+|[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/72413%23.py)|🚨k가 for loop 맨 바깥에 있어야 한다
+|[배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12978.py)|
+|[특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main18352.java)|🚨메모리 초과
+|[경로 찾기](https://www.acmicpc.net/problem/11403)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main11403.java)|🚨플로이드 워셜 알고리즘
+|[숨바꼭질](https://www.acmicpc.net/problem/13549)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main13549.java)|🚨Dijkstra's
+|[최단경로](https://www.acmicpc.net/problem/1753)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1753.java)|🚨간선의 가중치가 다른 경우 `PriorityQueue`를 사용
+|[택배](https://www.acmicpc.net/problem/1719)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1719.java)|🚨`nextStation[i][j] = nextStation[i][k]`
+|[끝나지 않는 파티](https://www.acmicpc.net/problem/11265)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main11265.java)|🚨플로이드 워셜 알고리즘
 
 
 ### Greedy
@@ -62,12 +78,6 @@
 |[택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/131704%23.py)|
 |[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/118667%23.py)|🚨`while` loop 종료 조건
 |[수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/67257.py)|🚨중위->후위 표현식 & 후위 표현식 계산
-
-### 최단거리
-|문제|정답|메모|
-|----|----|----|
-|[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/72413%23.py)|🚨k가 for loop 맨 바깥에 있어야 한다
-|[배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12978.py)|
 
 ### DP
 |문제|정답|메모|

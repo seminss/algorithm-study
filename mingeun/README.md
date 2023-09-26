@@ -89,6 +89,7 @@
 |[가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905%23)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12905#.py)|🚨2차원 리스트에 값을 덮어쓰는 방식
 |[로봇 조종하기](https://www.acmicpc.net/problem/2169)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/2169.py)|
 |[피보나치 수](https://www.acmicpc.net/problem/10870)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main10870.java)|
+|[피보나치 수 2](https://www.acmicpc.net/problem/2748)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main2748.java)|🚨피보나치 수의 범위 > int
 
 
 ### Heap

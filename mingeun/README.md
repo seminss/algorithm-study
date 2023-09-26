@@ -5,7 +5,7 @@
 |----|----|----|
 |[3079 입국심사](https://www.acmicpc.net/problem/3079)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/3079.py)|🚨`x = min(x, mid)`
 
-### DFS/BFS/완전탐색
+### DFS/BFS
 |문제|정답|메모|
 |----|----|----|
 |[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|[Python](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/43165.py) [Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/43165.java)|
@@ -24,15 +24,16 @@
 |[2615 오목](https://www.acmicpc.net/problem/2615)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/2615.py)|🚨5개 이상 인정 안됨, 방향에 따라 시작 좌표를 다르게 출력
 |[12919 A와 B 2](https://www.acmicpc.net/problem/12919)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Solution12919.java)|🚨역으로 T에서 S로 변환
 |[1548 부분 삼각 수열](https://www.acmicpc.net/problem/1548)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Solution1548.java)|🚨가장 큰 값 < 가장 작은 값 + 다음으로 작은 값
-|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/43162.java)
-|[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/12927.java)
-|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/43163.java)
-|[여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/43164.java)|🚨여행 경로를 문자열로 만들어 모두 저장한 뒤 정렬
+|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv3/43162.java)
+|[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv3/12927.java)
+|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv3/43163.java)
+|[여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164?language=java)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv3/43164.java)|🚨여행 경로를 문자열로 만들어 모두 저장한 뒤 정렬
 |[바이러스](https://www.acmicpc.net/problem/2606)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Solution2606.java)
 |[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main11725.java)
 |[미로 탐색](https://www.acmicpc.net/problem/2178)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main2178.java)
 |[트리의 지름](https://www.acmicpc.net/problem/1967)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1967.java)
 |[토마토](https://www.acmicpc.net/problem/7576)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main7576.java)
+|[인구 이동](https://www.acmicpc.net/problem/16234)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main16234.java)
 
 ### 최단거리
 |문제|정답|메모|

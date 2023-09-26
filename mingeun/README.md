@@ -53,20 +53,20 @@
 |문제|정답|메모|
 |----|----|----|
 |[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883.py)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42883.py)|🚨greedy
-|[14916 거스름돈](https://www.acmicpc.net/problem/14916)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/14916.py)|🚨5로 나누어 떨어지는 것이 최선이다.
-|[1343 폴리오미노](https://www.acmicpc.net/problem/1343)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/1343.py)|🚨while문 조건식에서 index의 범위 검사
+|[거스름돈](https://www.acmicpc.net/problem/14916)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/14916.py)|🚨5로 나누어 떨어지는 것이 최선이다.
+|[폴리오미노](https://www.acmicpc.net/problem/1343)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/1343.py)|🚨while문 조건식에서 index의 범위 검사
 |[2217 로프](https://www.acmicpc.net/problem/2217)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/2217.py)|🚨index의 범위 검사
-|[11000 강의실 배정](https://www.acmicpc.net/problem/2217)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/11000.py)|🚨`sys.stdin.readline`
-|[1758 알바생 강호](https://www.acmicpc.net/problem/1758)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/1758.py)|
-|[13164 행복 유치원](https://www.acmicpc.net/problem/13164)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/13164.py)|🚨gap을 (k-1)개 선택하는 것이 k개의 그룹을 만드는 것이다.
-|[19598 최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/19598.py)|
-|[11399 ATM](https://www.acmicpc.net/problem/11399)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/11399.py)|
+|[강의실 배정](https://www.acmicpc.net/problem/2217)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/11000.py)|🚨`sys.stdin.readline`
+|[알바생 강호](https://www.acmicpc.net/problem/1758)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/1758.py)|
+|[행복 유치원](https://www.acmicpc.net/problem/13164)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/13164.py)|🚨gap을 (k-1)개 선택하는 것이 k개의 그룹을 만드는 것이다.
+|[최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/19598.py)|
+|[ATM](https://www.acmicpc.net/problem/11399)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/11399.py)|
 
 
 ### 백트래킹
 |문제|정답|메모|
 |----|----|----|
-|[15654 N과 M(5)](https://www.acmicpc.net/problem/15654)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/15654.py)
+|[N과 M(5)](https://www.acmicpc.net/problem/15654)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/15654.py)
 
 ### 스택/큐
 |문제|정답|메모|
@@ -87,7 +87,8 @@
 |[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12913.py)|
 |[2xn 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12900.py)|🚨dp 테이블의 각 원소를 계산할때마다 1000000007로 나눠줘야 제한시간 안에 해결된다
 |[가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905%23)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12905#.py)|🚨2차원 리스트에 값을 덮어쓰는 방식
-|[2169 로봇 조종하기](https://www.acmicpc.net/problem/2169)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/2169.py)|
+|[로봇 조종하기](https://www.acmicpc.net/problem/2169)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/2169.py)|
+|[피보나치 수](https://www.acmicpc.net/problem/10870)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main10870.java)|
 
 
 ### Heap
@@ -121,7 +122,7 @@
 |[\[3차\] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/17687.py)|
 |[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42842.py)|🚨소인수분해
 |[2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/77885.py)|🚨2진수 -> 짝수와 홀수를 나누어 생각
-|[124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12899.py)|🚨3진법 변형
+|[나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12899.py)|🚨3진법 변형
 |[줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/12936%23.py)|🚨[자세한 설명](https://www.mingeun2154.github.io/algorithm/)
 |[마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/148653%23.py)|🚨경계값 4, 5
 |[숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/135807.py)|🚨유클리드 최대공약수 알고리즘
@@ -156,8 +157,8 @@
 |문제|정답|메모|
 |----|----|----|
 |[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/178870.py)|
-|[21921 블로그](https://www.acmicpc.net/problem/21921)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/21921.py)|
-|[15961 회전초밥](https://www.acmicpc.net/problem/15961)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/15961.py)|🚨시간초과
+|[블로그](https://www.acmicpc.net/problem/21921)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/21921.py)|
+|[회전초밥](https://www.acmicpc.net/problem/15961)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/15961.py)|🚨시간초과
 
 ### 나중에 다시 풀어볼 문제
 * [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127#)
@@ -170,7 +171,7 @@
 * [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) 🚨`rindex` 함수를 사용하면 마지막에 등장한 원소의 index를 구할 수 있다. 단, 없으면 error 발생. (`find` 함수를 사용하면 -1을 반환한다.)
 * [\[1차\] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679#.py)
 * [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) 🚨구현 연습
-* [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) 🚨3진법 변형
+* [나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) 🚨3진법 변형
 * [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
 * [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704#) 🚨갑자기 정답 처리됨
 * [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) 🚨투 포인터

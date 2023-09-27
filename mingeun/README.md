@@ -91,6 +91,7 @@
 |[피보나치 수](https://www.acmicpc.net/problem/10870)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main10870.java)|
 |[피보나치 수 2](https://www.acmicpc.net/problem/2748)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main2748.java)|🚨피보나치 수의 범위 > int
 |[돌 게임](https://www.acmicpc.net/problem/9655)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main9655.java)
+|[설탕 배달](https://www.acmicpc.net/problem/2839)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main2839.java)
 
 
 ### Heap

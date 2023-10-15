@@ -132,7 +132,7 @@
 |[숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/135807.py)|🚨유클리드 최대공약수 알고리즘
 |[멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/62048.py)|🚨직선이 양 꼭짓점을 지나는 가로 세로 길이가 서로소인 사각형을 지나는 경우 자르게 되는 사각형의 개수는 _w+_h-1
 
-### 기타(≈구현)
+### 구현
 |문제|정답|메모|
 |----|----|----|
 |[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/138476.py)|
@@ -151,7 +151,7 @@
 |[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651%23)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/155651#.py)|🚨입력값을 정렬해야 한다
 |[점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/140107.py)|🚨`math.sqrt`
 |[상어 초등학교](https://www.acmicpc.net/problem/21608)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main21608.java)
-
+|[홀수 홀릭 호석](https://www.acmicpc.net/problem/20164)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main20164.java)|🚨DFS
 
 
 ### 행렬

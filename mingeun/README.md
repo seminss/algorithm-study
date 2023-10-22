@@ -93,6 +93,7 @@
 |[돌 게임](https://www.acmicpc.net/problem/9655)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main9655.java)
 |[설탕 배달](https://www.acmicpc.net/problem/2839)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main2839.java)
 |[퇴사 2](https://www.acmicpc.net/problem/15486)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main15486.java)
+|[다리 놓기](https://www.acmicpc.net/problem/1010)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1010.java)|🚨파스칼의 삼각형
 
 
 ### Heap

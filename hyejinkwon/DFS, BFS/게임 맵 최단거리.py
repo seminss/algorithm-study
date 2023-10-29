@@ -1,37 +1,31 @@
 from collections import deque
 
-def BFS(maps, visited, start) :
-    dx = [0, 0, 1, -1]
-    dy = [1, -1, 0, 0]
-    
-    distance = [[1] * len(maps[0]) for _ in range(len(maps))]
-    
-    x,y = start
+dx = [0,0,1,-1]
+dy = [1,-1,0,0]
+
+def BFS(x,y,maps) :
     queue = deque()
-    visited[x][y] = True
     queue.append([x,y])
+    val = 0
     
     while queue :
-        x,y = queue.popleft()
+        vx, vy = queue.popleft()
         
-        for i in range(4) :
-            xx = x + dx[i]
-            yy = y + dy[i]
+        for k in range(4) :
+            xx = vx + dx[k]
+            yy = vy + dy[k]
             
-            if 0<=xx<len(maps) and 0<=yy<len(maps[0]) and maps[xx][yy] == 1 and not visited[xx][yy] :
-                visited[xx][yy] = True
+            if 0 > xx or xx >= len(maps) or 0 > yy or yy >= len(maps[0]) : continue
+            if maps[xx][yy] == 0 : continue
+            if maps[xx][yy] == 1 :    
+                maps[xx][yy] = maps[vx][vy] + 1
                 queue.append([xx,yy])
-                distance[xx][yy] = distance[x][y] + 1
-    
-    if distance[len(distance)-1][len(distance[0])-1] == 1 :
-        return -1
-    
-    else :
-        return distance[len(distance)-1][len(distance[0])-1]
+        
+    return maps[len(maps)-1][len(maps[0])-1]
 
 def solution(maps):
-    answer = 0  
-    visited = [[False] *len(maps[0]) for _ in range(len(maps))]     
-    answer = BFS(maps,visited,[0,0])
+    answer = 0    
+    answer = BFS(0,0,maps)    
     
-    return answer
+    if answer == 1 : return -1
+    else : return answer 

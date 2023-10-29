@@ -153,12 +153,8 @@
 |[점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/140107.py)|🚨`math.sqrt`
 |[상어 초등학교](https://www.acmicpc.net/problem/21608)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main21608.java)
 |[홀수 홀릭 호석](https://www.acmicpc.net/problem/20164)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main20164.java)|🚨DFS
-
-
-### 행렬
-|문제|정답|메모|
-|----|----|----|
 |[행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/44485.py)|🚨회오리
+|[배열 돌리기](https://www.acmicpc.net/problem/17276)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main17276.java)|🚨일반각 표현
 
 ### 투 포인터
 |문제|정답|메모|

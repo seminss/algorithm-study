@@ -156,6 +156,7 @@
 |[행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/44485.py)|🚨회오리
 |[배열 돌리기](https://www.acmicpc.net/problem/17276)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main17276.java)|🚨일반각 표현
 |[달력](https://www.acmicpc.net/problem/20207)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main20207.java)|
+|[달팽이 숫자](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/SWEA/Main1954.java)|
 
 ### 투 포인터
 |문제|정답|메모|

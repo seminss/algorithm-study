@@ -157,6 +157,7 @@
 |[배열 돌리기](https://www.acmicpc.net/problem/17276)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main17276.java)|🚨일반각 표현
 |[달력](https://www.acmicpc.net/problem/20207)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main20207.java)|
 |[달팽이 숫자](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/SWEA/Main1954.java)|
+|[거듭 제곱](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AV6kld8aisgDFASb&contestProbId=AV14dUIaAAUCFAYD&probBoxId=AV-4MojKLNADFATz+&type=PROBLEM&problemBoxTitle=%5BD2%7ED3+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4%5D+%EA%B8%B0%EC%B4%88+%EB%8B%A4%EC%A7%80%EA%B8%B0+Part4&problemBoxCnt=++14+)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/SWEA/Main1217.java)|
 
 ### 투 포인터
 |문제|정답|메모|

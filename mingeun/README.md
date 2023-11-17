@@ -133,6 +133,7 @@
 |[숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/135807.py)|🚨유클리드 최대공약수 알고리즘
 |[멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/62048.py)|🚨직선이 양 꼭짓점을 지나는 가로 세로 길이가 서로소인 사각형을 지나는 경우 자르게 되는 사각형의 개수는 _w+_h-1
 |[큰 수의 최대공약수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYmRI_8ajv8DFARi)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/SWEA/Main17937.java)|
+
 ### 구현
 |문제|정답|메모|
 |----|----|----|
@@ -160,6 +161,7 @@
 |[거듭 제곱](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AV6kld8aisgDFASb&contestProbId=AV14dUIaAAUCFAYD&probBoxId=AV-4MojKLNADFATz+&type=PROBLEM&problemBoxTitle=%5BD2%7ED3+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4%5D+%EA%B8%B0%EC%B4%88+%EB%8B%A4%EC%A7%80%EA%B8%B0+Part4&problemBoxCnt=++14+)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/SWEA/Solution1217.java)|
 |[GNS](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AV6kld8aisgDFASb&contestProbId=AV14jJh6ACYCFAYD&probBoxId=AV-4MojKLNADFATz&type=PROBLEM&problemBoxTitle=%5BD2%7ED3+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4%5D+%EA%B8%B0%EC%B4%88+%EB%8B%A4%EC%A7%80%EA%B8%B0+Part4&problemBoxCnt=14)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/SWEA/Solution1221.java)|
 |[원재의 벽 꾸미기](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AV6kld8aisgDFASb&contestProbId=AV2b9AkKACkBBASw&probBoxId=AV-4MojKLNADFATz&type=PROBLEM&problemBoxTitle=%5BD2%7ED3+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4%5D+%EA%B8%B0%EC%B4%88+%EB%8B%A4%EC%A7%80%EA%B8%B0+Part4&problemBoxCnt=14)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/SWEA/Solution1491.java)|🚨brute force
+|[\[SW 문제해결 기본\]1일차-View](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/SWEA/Solution1206.java)|
 
 
 ### 투 포인터

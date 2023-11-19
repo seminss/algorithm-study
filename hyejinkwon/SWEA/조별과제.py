@@ -1,14 +1,16 @@
-TC = int(input())
+T = int(input())
 
-for test_case in range(1, TC + 1):
-    N = int(input())
-    number = list(map(int, input().split()))
-    answer = 0
+possible = set()
 
-    for i in range(1,N-1) :
-        min_value = min([number[i-1], number[i], number[i+1]])
-        max_value = max([number[i-1], number[i], number[i+1]])
-        if number[i] != min_value and number[i] != max_value :
-            answer += 1
+for i in range(1,10) :
+    for j in range(1,10) :
+        possible.add(i*j)
 
-    print("#%d %s" %(test_case, answer))
+for test_case in range(1, T + 1) :
+    number = int(input())
+    if number in possible :
+        answer = "Yes"
+    else :
+        answer = "No"
+    
+    print("#%d %d" %(test_case, answer))

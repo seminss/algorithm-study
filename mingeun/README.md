@@ -97,6 +97,7 @@
 |[계단 오르기](https://www.acmicpc.net/problem/2579)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main2579.java)|🚨`Math.max(3전 + 1전, 2전)`
 |[조합](https://www.acmicpc.net/problem/2407)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main2407.java)|🚨`long` < 9.3 * 10^18
 |[연속합](https://www.acmicpc.net/problem/1912)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1912.java)|
+|[징검다리 건너기](https://www.acmicpc.net/problem/21317)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main21317.java)|
 
 
 ### Heap

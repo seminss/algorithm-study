@@ -48,6 +48,7 @@
 |[최단경로](https://www.acmicpc.net/problem/1753)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1753.java)|🚨간선의 가중치가 다른 경우 `PriorityQueue`를 사용
 |[택배](https://www.acmicpc.net/problem/1719)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1719.java)|🚨`nextStation[i][j] = nextStation[i][k]`
 |[끝나지 않는 파티](https://www.acmicpc.net/problem/11265)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main11265.java)|🚨플로이드 워셜 알고리즘
+|[공주님을 구해라!](https://www.acmicpc.net/problem/17836)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main17836.java)|🚨`시작 -> 검 -> 공주` vs `시작 -> 공주`
 
 
 ### Greedy

@@ -34,6 +34,7 @@
 |[트리의 지름](https://www.acmicpc.net/problem/1967)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1967.java)
 |[토마토](https://www.acmicpc.net/problem/7576)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main7576.java)
 |[인구 이동](https://www.acmicpc.net/problem/16234)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main16234.java)
+|[움직이는 미로 탈](https://www.acmicpc.net/problem/16954)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main16954.java)
 
 ### 최단거리
 |문제|정답|메모|

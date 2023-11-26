@@ -34,6 +34,7 @@
 |[트리의 지름](https://www.acmicpc.net/problem/1967)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1967.java)
 |[토마토](https://www.acmicpc.net/problem/7576)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main7576.java)
 |[인구 이동](https://www.acmicpc.net/problem/16234)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main16234.java)
+|[움직이는 미로 탈](https://www.acmicpc.net/problem/16954)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main16954.java)
 
 ### 최단거리
 |문제|정답|메모|
@@ -47,6 +48,7 @@
 |[최단경로](https://www.acmicpc.net/problem/1753)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1753.java)|🚨간선의 가중치가 다른 경우 `PriorityQueue`를 사용
 |[택배](https://www.acmicpc.net/problem/1719)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1719.java)|🚨`nextStation[i][j] = nextStation[i][k]`
 |[끝나지 않는 파티](https://www.acmicpc.net/problem/11265)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main11265.java)|🚨플로이드 워셜 알고리즘
+|[공주님을 구해라!](https://www.acmicpc.net/problem/17836)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main17836.java)|🚨`시작 -> 검 -> 공주` vs `시작 -> 공주`
 
 
 ### Greedy
@@ -94,6 +96,10 @@
 |[설탕 배달](https://www.acmicpc.net/problem/2839)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main2839.java)
 |[퇴사 2](https://www.acmicpc.net/problem/15486)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main15486.java)
 |[다리 놓기](https://www.acmicpc.net/problem/1010)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1010.java)|🚨파스칼의 삼각형
+|[계단 오르기](https://www.acmicpc.net/problem/2579)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main2579.java)|🚨`Math.max(3전 + 1전, 2전)`
+|[조합](https://www.acmicpc.net/problem/2407)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main2407.java)|🚨`long` < 9.3 * 10^18
+|[연속합](https://www.acmicpc.net/problem/1912)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1912.java)|
+|[징검다리 건너기](https://www.acmicpc.net/problem/21317)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main21317.java)|
 
 
 ### Heap

@@ -177,6 +177,7 @@
 |[블로그](https://www.acmicpc.net/problem/21921)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/21921.py)|
 |[회전초밥](https://www.acmicpc.net/problem/15961)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/15961.py)|🚨시간초과
 |[크로아티아 알파벳](https://www.acmicpc.net/problem/2941)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main2941.java)|
+|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1316.java)|
 
 ### 나중에 다시 풀어볼 문제
 * [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127#)

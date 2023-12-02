@@ -113,6 +113,7 @@
 |----|----|----|
 |[H-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/42747.py)|🚨빈 리스트에 대해 `max`함수를 실행하면 런타임 에러 발생
 |[\[3차\] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/17686%23.py)|🚨index가 지정된 범위를 벗어나는지 검사
+|[나이순 정렬](https://www.acmicpc.net/problem/10814)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main10814.java
 
 ### 문자열
 |문제|정답|메모|

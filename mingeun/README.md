@@ -82,6 +82,7 @@
 |[택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/131704%23.py)|
 |[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/118667%23.py)|🚨`while` loop 종료 조건
 |[수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/67257.py)|🚨중위->후위 표현식 & 후위 표현식 계산
+|[제로](https://www.acmicpc.net/problem/10773)|[C++](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main10773.cc)
 
 ### DP
 |문제|정답|메모|

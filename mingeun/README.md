@@ -70,6 +70,10 @@
 |----|----|----|
 |[N과 M(5)](https://www.acmicpc.net/problem/15654)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/15654.py)
 
+### set
+|[인사성 밝은 곰곰이](https://www.acmicpc.net/problem/25192)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/25192.cc)|🚨`unordered_set.clear()` ~ O(N)
+
+
 ### 스택/큐
 |문제|정답|메모|
 |----|----|----|
@@ -84,6 +88,8 @@
 |[수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/67257.py)|🚨중위->후위 표현식 & 후위 표현식 계산
 |[제로](https://www.acmicpc.net/problem/10773)|[C++](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main10773.cc)
 |[괄호](https://www.acmicpc.net/problem/9012)|[C++](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main9012.cc)
+|[도키도키 간식드리미](https://www.acmicpc.net/problem/12789)|[c++](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/boj/main12789.cc)
+|[queuestack](https://www.acmicpc.net/problem/24511)|[c++](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/boj/main24511.cc)|🚨스택 무시
 
 ### DP
 |문제|정답|메모|
@@ -121,8 +127,8 @@
 ### 문자열
 |문제|정답|메모|
 |----|----|----|
-|[\[1차\] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/17677.py)|
-|[\[3차\] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/17684.py)|
+|[\[1차\] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/17677.py)
+|[\[3차\] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/17684.py)
 
 ### 해시
 |문제|정답|메모|
@@ -142,6 +148,7 @@
 |[마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653#)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/148653%23.py)|🚨경계값 4, 5
 |[숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/135807.py)|🚨유클리드 최대공약수 알고리즘
 |[멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv2/62048.py)|🚨직선이 양 꼭짓점을 지나는 가로 세로 길이가 서로소인 사각형을 지나는 경우 자르게 되는 사각형의 개수는 _w+_h-1
+
 |[큰 수의 최대공약수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AYmRI_8ajv8DFARi)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/SWEA/Main17937.java)|
 |[소인수분해](https://www.acmicpc.net/problem/11653)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main11653.java
 |[분수 합](https://www.acmicpc.net/problem/1735)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1735.java|🚨최소공배수 = 곱 / 최대공약수
@@ -175,6 +182,7 @@
 |[원재의 벽 꾸미기](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AV6kld8aisgDFASb&contestProbId=AV2b9AkKACkBBASw&probBoxId=AV-4MojKLNADFATz&type=PROBLEM&problemBoxTitle=%5BD2%7ED3+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4%5D+%EA%B8%B0%EC%B4%88+%EB%8B%A4%EC%A7%80%EA%B8%B0+Part4&problemBoxCnt=14)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/SWEA/Solution1491.java)|🚨brute force
 |[\[SW 문제해결 기본\]1일차-View](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/SWEA/Solution1206.java)|
 |[색종이](https://www.acmicpc.net/problem/2563)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main2563.java)|
+|[색종이](https://www.acmicpc.net/problem/12100)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main12100.cc)|🚨queue 활용
 
 
 ### 투 포인터

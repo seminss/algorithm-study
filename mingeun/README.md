@@ -35,6 +35,7 @@
 |[토마토](https://www.acmicpc.net/problem/7576)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main7576.java)
 |[인구 이동](https://www.acmicpc.net/problem/16234)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main16234.java)
 |[움직이는 미로 탈](https://www.acmicpc.net/problem/16954)|[Java](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main16954.java)
+|[별 찍기 - 10](https://www.acmicpc.net/problem/2447)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main2447.cc)
 
 ### 최단거리
 |문제|정답|메모|

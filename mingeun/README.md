@@ -39,6 +39,7 @@
 |[하노이 탑 이동순서](https://www.acmicpc.net/problem/11729)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main11729.cc)
 |[N-Queen](https://www.acmicpc.net/problem/9663)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main9663.cc)
 |[스도쿠](https://www.acmicpc.net/problem/2580)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main2580.cc)
+|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main14888.cc)
 
 ### 최단거리
 |문제|정답|메모|

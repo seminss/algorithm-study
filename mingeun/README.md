@@ -115,6 +115,7 @@
 |[징검다리 건너기](https://www.acmicpc.net/problem/21317)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main21317.java)|
 |[파도반 수열](https://www.acmicpc.net/problem/9416)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main9416.cc)|
 |[파도반 수열](https://www.acmicpc.net/problem/1149)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main1149.cc)|
+|[정수 삼각형](https://www.acmicpc.net/problem/1932)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main1932.cc)|
 
 
 ### Heap

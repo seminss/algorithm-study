@@ -117,6 +117,7 @@
 |[RGB 거리](https://www.acmicpc.net/problem/1149)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main1149.cc)|
 |[정수 삼각형](https://www.acmicpc.net/problem/1932)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main1932.cc)|
 |[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main10844.cc)|
+|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main11053.cc)|
 
 
 ### Heap

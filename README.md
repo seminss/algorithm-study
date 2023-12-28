@@ -1,6 +1,6 @@
-# python-algorithm-study
+# algorithm-study
 
-코딩 테스트 준비를 위한 알고리즘 문제 풀이 스터디
+알고리즘 문제 풀이 스터디
 
 # 스터디 목표
 

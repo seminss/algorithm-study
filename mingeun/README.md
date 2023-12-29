@@ -193,6 +193,7 @@
 |[\[SW 문제해결 기본\]1일차-View](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/SWEA/Solution1206.java)|
 |[색종이](https://www.acmicpc.net/problem/2563)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main2563.java)|
 |[색종이](https://www.acmicpc.net/problem/12100)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main12100.cc)|🚨queue 활용
+|[PCCP 기출문제 1번 기출문제](https://school.programmers.co.kr/learn/courses/30/lessons/250137)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv1/solution250137.cc)|
 
 
 ### 투 포인터

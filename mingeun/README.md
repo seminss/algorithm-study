@@ -40,6 +40,7 @@
 |[N-Queen](https://www.acmicpc.net/problem/9663)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main9663.cc)
 |[스도쿠](https://www.acmicpc.net/problem/2580)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main2580.cc)
 |[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main14888.cc)
+|[석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/solution250136.cc)
 
 ### 최단거리
 |문제|정답|메모|

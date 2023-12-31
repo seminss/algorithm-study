@@ -120,6 +120,7 @@
 |[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main10844.cc)|
 |[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main11053.cc)|
 |[포도주 시식](https://www.acmicpc.net/problem/2156)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main2156.cc)|
+|[가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main11054.cc)|
 
 
 ### Heap

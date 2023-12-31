@@ -40,6 +40,7 @@
 |[N-Queen](https://www.acmicpc.net/problem/9663)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main9663.cc)
 |[스도쿠](https://www.acmicpc.net/problem/2580)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main2580.cc)
 |[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main14888.cc)
+|[석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/solution250136.cc)
 
 ### 최단거리
 |문제|정답|메모|
@@ -113,6 +114,15 @@
 |[조합](https://www.acmicpc.net/problem/2407)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main2407.java)|🚨`long` < 9.3 * 10^18
 |[연속합](https://www.acmicpc.net/problem/1912)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main1912.java)|
 |[징검다리 건너기](https://www.acmicpc.net/problem/21317)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main21317.java)|
+|[파도반 수열](https://www.acmicpc.net/problem/9416)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main9416.cc)|
+|[RGB 거리](https://www.acmicpc.net/problem/1149)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main1149.cc)|
+|[정수 삼각형](https://www.acmicpc.net/problem/1932)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main1932.cc)|
+|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main10844.cc)|
+|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main11053.cc)|
+|[포도주 시식](https://www.acmicpc.net/problem/2156)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main2156.cc)|
+|[가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main11054.cc)|
+|[전깃줄](https://www.acmicpc.net/problem/2565)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main2565.cc)|
+|[LCS](https://www.acmicpc.net/problem/9251)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main9251.cc)|
 
 
 ### Heap
@@ -188,6 +198,7 @@
 |[\[SW 문제해결 기본\]1일차-View](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/SWEA/Solution1206.java)|
 |[색종이](https://www.acmicpc.net/problem/2563)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/Main2563.java)|
 |[색종이](https://www.acmicpc.net/problem/12100)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main12100.cc)|🚨queue 활용
+|[PCCP 기출문제 1번 기출문제](https://school.programmers.co.kr/learn/courses/30/lessons/250137)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/Lv1/solution250137.cc)|
 
 
 ### 투 포인터

@@ -1,0 +1,19 @@
+{
+  "configurations": {
+    "my code": {
+      "adapter": "debugpy",
+      "filetypes": [ "python" ],
+      "configuration": {
+        "name": "<name>: Launch",
+        "type": "python",
+        "request": "launch",
+        "cwd": "/Users/mingeun/study/python-algorithm-study/mingeun/Lv2/",
+        "python": "/opt/homebrew/bin/python3",
+        "stopOnEntry": true,
+        "console": "externalTerminal",
+        "debugOptions": ["-i"],
+        "program": "68645.py"
+      }
+    }
+  }
+}

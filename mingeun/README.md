@@ -123,6 +123,7 @@
 |[가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main11054.cc)|
 |[전깃줄](https://www.acmicpc.net/problem/2565)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main2565.cc)|
 |[LCS](https://www.acmicpc.net/problem/9251)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main9251.cc)|
+|[평범함 배낭](https://www.acmicpc.net/problem/12865)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main12865.cc)|
 
 
 ### Heap

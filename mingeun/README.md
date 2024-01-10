@@ -129,6 +129,7 @@
 |[구간 합 구하기 4](https://www.acmicpc.net/problem/11659)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main11659.cc)|
 |[수열](https://www.acmicpc.net/problem/2559)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main2559.cc)|
 |[인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main16139.cc)|
+|[나머지 합](https://www.acmicpc.net/problem/10986)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main10986.cc)|
 
 
 ### Heap

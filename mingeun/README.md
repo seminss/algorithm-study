@@ -69,6 +69,7 @@
 |[행복 유치원](https://www.acmicpc.net/problem/13164)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/13164.py)|🚨gap을 (k-1)개 선택하는 것이 k개의 그룹을 만드는 것이다.
 |[최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/19598.py)|
 |[ATM](https://www.acmicpc.net/problem/11399)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/11399.py)|
+|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/1541.cc)|
 
 
 ### 백트래킹

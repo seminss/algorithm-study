@@ -70,6 +70,7 @@
 |[최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/19598.py)|
 |[ATM](https://www.acmicpc.net/problem/11399)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/11399.py)|
 |[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/1541.cc)|
+|[주유소](https://www.acmicpc.net/problem/13305)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/13305.cc)|
 
 
 ### 백트래킹

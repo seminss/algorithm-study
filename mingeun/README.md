@@ -99,6 +99,11 @@
 |[도키도키 간식드리미](https://www.acmicpc.net/problem/12789)|[c++](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/boj/main12789.cc)
 |[queuestack](https://www.acmicpc.net/problem/24511)|[c++](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/boj/main24511.cc)|🚨스택 무시
 
+### 우선순위 큐
+|문제|정답|메모|
+|----|----|----|
+|[최대 힙](https://www.acmicpc.net/problem/11279)|[c++](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/boj/main11279.cc)|
+
 ### DP
 |문제|정답|메모|
 |----|----|----|

@@ -69,6 +69,8 @@
 |[행복 유치원](https://www.acmicpc.net/problem/13164)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/13164.py)|🚨gap을 (k-1)개 선택하는 것이 k개의 그룹을 만드는 것이다.
 |[최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/19598.py)|
 |[ATM](https://www.acmicpc.net/problem/11399)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/11399.py)|
+|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/1541.cc)|
+|[주유소](https://www.acmicpc.net/problem/13305)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/13305.cc)|
 
 
 ### 백트래킹
@@ -97,6 +99,11 @@
 |[도키도키 간식드리미](https://www.acmicpc.net/problem/12789)|[c++](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/boj/main12789.cc)
 |[queuestack](https://www.acmicpc.net/problem/24511)|[c++](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/boj/main24511.cc)|🚨스택 무시
 
+### 우선순위 큐
+|문제|정답|메모|
+|----|----|----|
+|[최대 힙](https://www.acmicpc.net/problem/11279)|[c++](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/boj/main11279.cc)|
+
 ### DP
 |문제|정답|메모|
 |----|----|----|
@@ -123,6 +130,15 @@
 |[가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main11054.cc)|
 |[전깃줄](https://www.acmicpc.net/problem/2565)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main2565.cc)|
 |[LCS](https://www.acmicpc.net/problem/9251)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main9251.cc)|
+|[평범함 배낭](https://www.acmicpc.net/problem/12865)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main12865.cc)|
+
+### 구간 합
+|[구간 합 구하기 4](https://www.acmicpc.net/problem/11659)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main11659.cc)|
+|[수열](https://www.acmicpc.net/problem/2559)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main2559.cc)|
+|[인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main16139.cc)|
+|[나머지 합](https://www.acmicpc.net/problem/10986)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main10986.cc)|
+|[구간 합 구하기 5](https://www.acmicpc.net/problem/11660)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main11660.cc)|
+|[체스판 다시 칠하기 2](https://www.acmicpc.net/problem/25682)|[코드](https://github.com/mingeun2154/python-algorithm-study/blob/main/mingeun/BOJ/main25682.cc)|
 
 
 ### Heap

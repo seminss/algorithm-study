@@ -6,59 +6,57 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class boj16926 {
-    //9:11~10:18
+    static int N, M, R, maps[][];
+
     public static void main(String[] args) throws IOException {
-        StringBuilder sb = new StringBuilder();
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
-
-        int n = Integer.parseInt(st.nextToken());
-        int m = Integer.parseInt(st.nextToken());
-        int r = Integer.parseInt(st.nextToken());
-        int maps[][] = new int[n][m];
-        for (int i = 0; i < n; i++) {
+        StringBuilder sb = new StringBuilder();
+        N = Integer.parseInt(st.nextToken());
+        M = Integer.parseInt(st.nextToken());
+        R = Integer.parseInt(st.nextToken());
+        maps = new int[N][M];
+        for (int i = 0; i < N; i++) {
             st = new StringTokenizer(br.readLine());
-            for (int j = 0; j < m; j++) {
+            for (int j = 0; j < M; j++) {
                 maps[i][j] = Integer.parseInt(st.nextToken());
             }
         }
-        for (int i = 0; i < r; i++) {
-            maps = rotation(maps);
+        for (int i = 0; i < R; i++) {
+            rotate();
         }
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
+        makeOutput(sb);
+        System.out.print(sb);
+    }
+
+    private static void rotate() {
+        int[] dx = {1, 0, -1, 0};
+        int[] dy = {0, 1, 0, -1};
+        for (int step = 0; step < Math.min(N, M) / 2; step++) {
+            int x = step;
+            int y = step;
+            int start = maps[step][step];
+            for (int k = 0; k < 4; k++) {
+                while (true) {
+                    int nx = x + dx[k];
+                    int ny = y + dy[k];
+                    if (nx < step || ny < step || nx >= M - step || ny >= N - step) {
+                        break;
+                    }
+                    maps[y][x] = maps[ny][nx];
+                    x = nx;
+                    y = ny;
+                }
+            }
+            maps[step + 1][step] = start;
+        }
+    }
+    private static void makeOutput(StringBuilder sb) {
+        for (int i = 0; i < N; i++) {
+            for (int j = 0; j < M; j++) {
                 sb.append(maps[i][j]).append(" ");
             }
             sb.append("\n");
         }
-        System.out.println(sb);
-    }
-
-    private static int[][] rotation(int[][] maps) {
-        int n = maps.length;
-        int m = maps[0].length;
-        int[][] rotated = new int[n][m];
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                rotated[i][j] = maps[i][j];
-            }
-        } //복사 안하는 방법을 찾으면 좋을듯
-
-        for (int width = 0; width < Math.min(n, m) / 2; width++) { //width는 조정 필요
-            for (int i = width; i < n - 1 - width; i++) { //왼쪽
-                rotated[i + 1][width] = maps[i][width];
-            }
-            for (int i = width; i < m - 1 - width; i++) { //아래쪽
-                rotated[n - 1 - width][i + 1] = maps[n - 1 - width][i];
-            }
-            for (int i = width; i < n - 1 - width; i++) { //오른쪽
-                rotated[n - 1 - i - 1][m - 1 - width] = maps[n - 1 - i][m - 1 - width];
-            }
-            for (int i = width; i < m - 1 - width; i++) { //위쪽
-                rotated[width][m - 1 - i - 1] = maps[width][m - 1 - i];
-            }
-        }
-        return rotated;
     }
 }
